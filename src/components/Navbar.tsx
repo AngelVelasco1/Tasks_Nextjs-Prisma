@@ -25,10 +25,6 @@ export const Navbar = () => {
                                 <li>
                                     <a className="text-gray-500 transition hover:text-gray-500/75" href="/NewTask"> Create Task </a>
                                 </li>
-
-                                <li>
-                                    <a className="text-gray-500 transition hover:text-gray-500/75" href="/AboutUs"> About </a>
-                                </li>
                             </ul>
                         </nav>
 
