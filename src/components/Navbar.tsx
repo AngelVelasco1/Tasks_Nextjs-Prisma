@@ -27,7 +27,7 @@ export const Navbar = () => {
                                 </li>
 
                                 <li>
-                                    <a className="text-gray-500 transition hover:text-gray-500/75" href="/About"> About </a>
+                                    <a className="text-gray-500 transition hover:text-gray-500/75" href="/AboutUs"> About </a>
                                 </li>
                             </ul>
                         </nav>
